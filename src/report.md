@@ -286,20 +286,31 @@ useradd - команда создания нового пользователя.
 
 - Сортировка(F3):
     - по PID:
+
         ![](pics/09.4.1.png)
+
     - по PERCENT_CPU:
+
         ![](pics/09.4.2.png)
+
     - по PERCENT_MEM:
+
         ![](pics/09.4.3.png)
+
     - по TIME:
+
         ![](pics/09.4.4.png)
+
 - Фильтрация (F4) для процесса sshd:
+
     ![](pics/09.5.png)
 
 - Поиск (F3) процесса syslog:
+
     ![](pics/09.6.png)
 
 - С выводом hostname, clock и uptime (настройка вывода F2):
+
     ![](pics/09.7.png)
 
 ---
